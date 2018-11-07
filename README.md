@@ -18,10 +18,8 @@ Note that using anaconda opencv3 verison may not have gtk2.0 intergrated. I trie
   [Debug] [RgbPacketStreamParser] skipping rgb packet!
   
 ## Tensorflow
-  CPU: just follow the official website.
-  GPU: not tried.
+  CPU: follow the official website.
  
-## TODO install cuda and using gpu to run this and tensorflow.
 
 
 ![image](https://github.com/Dearbigdog/kinectRelated/blob/master/images/Screenshot%20from%202017-09-07%2013-43-33.png)
